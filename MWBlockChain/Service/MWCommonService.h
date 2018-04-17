@@ -1,9 +1,9 @@
 //
 //  MWCommonService.h
-//  MagicWindowSampleApp
+//
 //
 //  Created by 刘家飞 on 14/11/20.
-//  Copyright (c) 2014年 MagicWindow. All rights reserved.
+//  Copyright (c) 2014年  All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

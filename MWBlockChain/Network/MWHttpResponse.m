@@ -1,9 +1,9 @@
 //
 //  HttpResponse.m
-//  MagicWindowSampleApp
+//
 //
 //  Created by 刘家飞 on 16/8/3.
-//  Copyright © 2016年 MagicWindow. All rights reserved.
+//  Copyright © 2016年 All rights reserved.
 //
 
 #import "MWHttpResponse.h"

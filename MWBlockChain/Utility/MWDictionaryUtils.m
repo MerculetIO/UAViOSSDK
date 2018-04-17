@@ -1,9 +1,9 @@
 //
 //  MWDictionaryUtils.m
-//  MagicWindowSampleApp
+//
 //
 //  Created by 刘家飞 on 15/1/16.
-//  Copyright (c) 2015年 MagicWindow. All rights reserved.
+//  Copyright (c) 2015年 All rights reserved.
 //
 
 #import "MWDictionaryUtils.h"

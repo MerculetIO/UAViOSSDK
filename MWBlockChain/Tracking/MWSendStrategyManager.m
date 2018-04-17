@@ -1,9 +1,9 @@
 //
 //  MWSendStrategyManager.m
-//  MagicWindowSampleApp
+//
 //
 //  Created by 刘家飞 on 14/12/11.
-//  Copyright (c) 2014年 MagicWindow. All rights reserved.
+//  Copyright (c) 2014年 All rights reserved.
 //
 
 #import "MWSendStrategyManager.h"

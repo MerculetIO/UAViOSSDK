@@ -1,9 +1,9 @@
 //
 //  MWURLRequestManager.m
-//  MagicWindowSampleApp
+//  
 //
 //  Created by 刘家飞 on 14/12/29.
-//  Copyright (c) 2014年 MagicWindow. All rights reserved.
+//  Copyright (c) 2014年 All rights reserved.
 //
 
 #import "MWURLRequestManager.h"

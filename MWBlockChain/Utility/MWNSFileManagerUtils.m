@@ -1,9 +1,9 @@
 //
 //  MWNSFileManagerUtils.m
-//  MagicWindowSampleApp
+//
 //
 //  Created by JackLiu on 14-7-23.
-//  Copyright (c) 2014年 MagicWindow. All rights reserved.
+//  Copyright (c) 2014年 All rights reserved.
 //
 
 #import "MWNSFileManagerUtils.h"

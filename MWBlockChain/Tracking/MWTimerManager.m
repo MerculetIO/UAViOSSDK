@@ -1,9 +1,9 @@
 //
 //  MWTimerManager.m
-//  MagicWindowSampleApp
+//
 //
 //  Created by 刘家飞 on 16/7/18.
-//  Copyright © 2016年 MagicWindow. All rights reserved.
+//  Copyright © 2016年 All rights reserved.
 //
 
 #import "MWTimerManager.h"

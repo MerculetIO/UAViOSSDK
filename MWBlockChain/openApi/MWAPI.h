@@ -18,9 +18,9 @@
 /**
  *  注册app
  *  需要在 application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions 中调用
- *  @param appKey            魔窗后台注册的appkey
- *  @param accountKey        魔窗后台注册的accountKey
- *  @param accountSecret     魔窗后台注册的accountSecret
+ *  @param appKey            后台注册的appkey
+ *  @param accountKey        后台注册的accountKey
+ *  @param accountSecret     后台注册的accountSecret
  */
 + (void)registerApp:(nonnull NSString *)appKey
          accountKey:(nonnull NSString *)accountKey
